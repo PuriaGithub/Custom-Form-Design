@@ -34,6 +34,7 @@ input{
     border-bottom: 1px solid lightgray;
     outline: none;   
     transition: width 800ms ease-out;
+    margin: 1em 0 1em 0;
 }
 
 input:focus{
